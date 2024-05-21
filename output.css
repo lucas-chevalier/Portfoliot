@@ -32,9 +32,9 @@ section {
 }
 
 .portfolio-item {
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   border-radius: 5px;
-  padding: 10px;
+  padding: 50px;
   margin-bottom: 20px;
 }
 
